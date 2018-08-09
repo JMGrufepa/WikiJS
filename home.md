@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Wiki-Rufepa -->
+<!-- SUBTITLE: Esta es la nueva wiki de Rufepa -->
 
 # Bienvenido a Rufepa Wiki
 Esta es la Wikipedia de Rufepa. Está pensada para ir recogiendo el saber hacer, los procesos y los conocimientos que se vayan generando en Rufepa. La idea es que a base de pequeñas contribuciones, se pueda ir convirtiendo en el lugar de referencia del conocimiento de la empresa al igual que ocurre con [Wikipedia](www.wikipedia.com). 
