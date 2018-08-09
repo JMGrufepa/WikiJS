@@ -16,8 +16,8 @@ O tambien puede consultar las secciones más importantes:
 ## Ingeniería
 Producto
 * [Invernadero](Productos)
-* [Equipamientos](Equipamientos)
+* Equipamientos
 
 Herramientas
-* [Procesos](Procesos)
-* [Herramientas](Herramientas)
+* Procesos
+* Herramientas
